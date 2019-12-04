@@ -1,2 +1,4 @@
 # Demo
-primer cuatrimestre
+#  primer cuatrimestre
+Alumna: veronica vilca
+Docente: Felipe Vazquez
